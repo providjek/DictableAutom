@@ -1,0 +1,7 @@
+ztrain:
+  url: "https://ztrain-web.vercel.app"
+
+timeConst:
+  timeout: 60
+  shortWait: 5
+  longWait: 30
