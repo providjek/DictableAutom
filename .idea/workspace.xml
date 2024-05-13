@@ -4,41 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f43d54c-8691-4e71-81b9-b4c68f2b33a0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/config/YAMLConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/enums/EndpointEnums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/failsafe/FailsafeListeners.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/failsafe/FailsafePolicies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/managers/WebDrivenSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/managers/YamlConfigManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/FormAbstract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/forms/UserForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/object/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pagesObjects/Page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pagesObjects/home/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pagesObjects/profiles/ProfilesPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pagesObjects/resetPassword/ResetPassPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/configuration.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runners/AuthRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/LoginStep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/LogoutStep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/PageNavigationSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/ProileManageStep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/RegisterSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/ResetPasswordStep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/login.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/logout.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/profilManagement.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/register.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/restorePassword.feature" afterDir="false" />
-    </list>
+    <list default="true" id="1f43d54c-8691-4e71-81b9-b4c68f2b33a0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,19 +29,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/LENOVO/IdeaProjects/ztrain-web-ui-framework-testing/src/test/resources/features&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/LENOVO/IdeaProjects/ztrain-web-ui-framework-testing/src/test/resources/features",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\LENOVO\IdeaProjects\ztrain-web-ui-framework-testing\src\test\resources\features" />
@@ -216,6 +183,7 @@
       <workItem from="1713449883398" duration="26474000" />
       <workItem from="1713779688115" duration="1576000" />
       <workItem from="1713785336397" duration="2755000" />
+      <workItem from="1715204948945" duration="945000" />
     </task>
     <servers />
   </component>
